@@ -1,0 +1,15 @@
+
+TYPE	TITEL					UDGIVET					Link
+Link	HTML, CSS og JavaScript - w3schools	14-09-2023 Jack Birger Baltzer		https://www.w3schools.com/
+Link	Channel 9 HTML5 & CSS3 Fundamental	14-09-2023 Jack Birger Baltzer		https://www.youtube.com/playlist?list=PLYfuVwMbJ3WfAAh3Mome0gTYuZWi4CC5Z
+Link	Khan academy HTML/CSS			14-09-2023 Jack Birger Baltzer		https://www.khanacademy.org/computing/computer-programming/html-css
+Link	HTML5 Validator				14-09-2023 Jack Birger Baltzer		https://html5.validator.nu/
+Link	www-opfinderen Tim_Berners-Lee		14-09-2023 Jack Birger Baltzer		https://en.wikipedia.org/wiki/Tim_Berners-Lee
+Link	Organisationen bag html, css m.m.	14-09-2023 Jack Birger Baltzer		https://www.w3.org/
+Link	HTML DOM - Document Object Model	14-09-2023 Jack Birger Baltzer		https://www.w3schools.com/js/js_htmldom.asp
+Fil	JavaScript_tutorial.txt			14-09-2023 Jack Birger Baltzer		https://www.nemprogrammering.dk/Tutorials/javascript-v2/1-introduktion.php
+Link	NemProgrammering.dk			14-09-2023 Jack Birger Baltzer		https://www.nemprogrammering.dk/Tutorials/HTML/oversigt_html.php
+Link	Historien om WWW			14-09-2023 Jack Birger Baltzer		http://politiken.dk/5506303
+Link	Platform.html5.org - referenceside	14-09-2023 Jack Birger Baltzer		https://platform.html5.org/
+Link	can I use, opslagsværk			14-09-2023 Jack Birger Baltzer		https://caniuse.com/
+Link	flex box tutorial			14-09-2023 Jack Birger Baltzer		https://css-tricks.com/snippets/css/a-guide-to-flexbox/
