@@ -1,0 +1,165 @@
+body {
+    margin: 0;
+    height: 90cm;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#purple {
+    height: 15%;
+    padding-top: 40px;
+    background-color: #86509c;
+}
+
+#top {
+    height: 10%;
+    width: 100%;
+    display: flex;
+    margin-right: 6%;
+}
+
+#top>div {
+    margin-left: 10%;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+}
+
+#BitcoinTitle {
+    margin: 0;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#top>nav {
+    display: flex;
+    justify-content: end;
+    width: 50%;
+    margin-top: 10px;
+    margin-right: 5%;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    width: inherit;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    overflow: hidden;
+}
+
+li {
+    padding-top: 17px;
+}
+
+li>a {
+    padding: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-decoration: none;
+    color: white;
+}
+
+li>a:hover {
+    background-color: #643a79;
+    border-color: #643a79;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+
+#purple>div>h1 {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+#bitcoincenter {
+    margin-top: 100px;
+}
+
+#bitcoinsecondheader {
+    font-style: italic;
+}
+
+#bitcoinspan {
+    font-style: italic;
+}
+
+#BitcoinButtonPlace {
+    display: flex;
+    justify-content: center;
+    margin-top: 1cm;
+}
+
+#bitcoinButton {
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: #eb7d4a;
+    border-color: #eb7d4a;
+    border-radius: 3px;
+    border-style: solid;
+    color: white
+}
+
+
+#teal {
+    height: 35%;
+    background-color: #17c1a4;
+}
+
+#InformationTitle {
+    height: 10%;
+    margin: 0;
+    padding-top: 4em;
+}
+
+#InformationTitle>h1 {
+    display: flex;
+    justify-content: center;
+}
+
+#InformationTitle>p {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+#TopInfoSection {
+    margin-top: 2cm;
+    height: 25%;
+    display: flex;
+    justify-content: center;
+    /* margin-left: 400px; */
+
+    padding-bottom: 1cm;
+}
+
+#bitcoinTopImage {
+    margin-left: 5cm;
+}
+
+#bitcoinBottomImage{
+    margin-right: 5cm;
+}
+
+#BottomInfoSection {
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    /* margin-right: 400px; */
+}
+
+#pinkish-red {
+    height: 25%;
+    background-color: #d74681;
+}
+
+#blue {
+    height: 25%;
+    background-color: #3c549a;
+}
