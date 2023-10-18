@@ -1,0 +1,2 @@
+WARNING
+It's bad
