@@ -1,0 +1,8 @@
+Her er lidt omkring virtualisering og docker
+https://www.youtube.com/c/TechWorldwithNana/videos
+
+Docker vs Virtuel Machine (Nana)
+https://www.youtube.com/watch?v=5GanJdbHlAA
+
+Docker tutorial for beginners (Nana)
+https://www.youtube.com/watch?v=3c-iBn73dDE
