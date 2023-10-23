@@ -1,0 +1,36 @@
+
+hostname R1
+no logging console
+
+no ip domain lookup
+
+interface GigabitEthernet0/0
+ ip address 10.0.0.1 255.255.255.240
+ ip nat inside
+ ip virtual-reassembly in
+ duplex auto
+ speed auto
+
+interface GigabitEthernet0/1
+ ip address 192.168.1.1 255.255.255.0
+ ip nat inside
+ ip virtual-reassembly in
+ duplex auto
+ speed auto
+
+interface FastEthernet0/1/0
+ switchport access vlan 100
+ no ip address
+
+interface Vlan100
+ ip address 10.233.149.129 255.255.255.0
+ ip nat outside
+ ip virtual-reassembly in
+
+ip nat inside source list 1 interface Vlan100 overload
+ip route 0.0.0.0 0.0.0.0 Vlan100
+ip route 192.168.2.0 255.255.255.0 10.0.0.2
+
+access-list 1 permit 192.168.0.0 0.0.255.255
+
+end
