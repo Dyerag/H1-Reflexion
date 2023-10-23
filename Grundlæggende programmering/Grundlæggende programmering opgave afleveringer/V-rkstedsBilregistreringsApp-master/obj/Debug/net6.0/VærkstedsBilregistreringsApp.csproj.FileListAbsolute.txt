@@ -1,0 +1,15 @@
+C:\Users\Dea\Downloads\V-rkstedsBilregistreringsApp-master\bin\Debug\net6.0\VærkstedsBilregistreringsApp.exe
+C:\Users\Dea\Downloads\V-rkstedsBilregistreringsApp-master\bin\Debug\net6.0\VærkstedsBilregistreringsApp.deps.json
+C:\Users\Dea\Downloads\V-rkstedsBilregistreringsApp-master\bin\Debug\net6.0\VærkstedsBilregistreringsApp.runtimeconfig.json
+C:\Users\Dea\Downloads\V-rkstedsBilregistreringsApp-master\bin\Debug\net6.0\VærkstedsBilregistreringsApp.dll
+C:\Users\Dea\Downloads\V-rkstedsBilregistreringsApp-master\bin\Debug\net6.0\VærkstedsBilregistreringsApp.pdb
+C:\Users\Dea\Downloads\V-rkstedsBilregistreringsApp-master\obj\Debug\net6.0\VærkstedsBilregistreringsApp.csproj.AssemblyReference.cache
+C:\Users\Dea\Downloads\V-rkstedsBilregistreringsApp-master\obj\Debug\net6.0\VærkstedsBilregistreringsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dea\Downloads\V-rkstedsBilregistreringsApp-master\obj\Debug\net6.0\VærkstedsBilregistreringsApp.AssemblyInfoInputs.cache
+C:\Users\Dea\Downloads\V-rkstedsBilregistreringsApp-master\obj\Debug\net6.0\VærkstedsBilregistreringsApp.AssemblyInfo.cs
+C:\Users\Dea\Downloads\V-rkstedsBilregistreringsApp-master\obj\Debug\net6.0\VærkstedsBilregistreringsApp.csproj.CoreCompileInputs.cache
+C:\Users\Dea\Downloads\V-rkstedsBilregistreringsApp-master\obj\Debug\net6.0\VærkstedsBilregistreringsApp.dll
+C:\Users\Dea\Downloads\V-rkstedsBilregistreringsApp-master\obj\Debug\net6.0\refint\VærkstedsBilregistreringsApp.dll
+C:\Users\Dea\Downloads\V-rkstedsBilregistreringsApp-master\obj\Debug\net6.0\VærkstedsBilregistreringsApp.pdb
+C:\Users\Dea\Downloads\V-rkstedsBilregistreringsApp-master\obj\Debug\net6.0\VærkstedsBilregistreringsApp.genruntimeconfig.cache
+C:\Users\Dea\Downloads\V-rkstedsBilregistreringsApp-master\obj\Debug\net6.0\ref\VærkstedsBilregistreringsApp.dll

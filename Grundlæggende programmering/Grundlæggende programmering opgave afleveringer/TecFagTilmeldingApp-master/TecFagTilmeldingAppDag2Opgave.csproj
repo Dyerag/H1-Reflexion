@@ -1,0 +1,60 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>preview</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Audio\EEnE VOX EDDY - ahem HELP ME.wav" />
+    <None Remove="Audio\EEnE VOX EDDY - And You Kiss Your Mother.wav" />
+    <None Remove="Audio\EEnE VOX KEVIN AND ROLF banter.wav" />
+    <None Remove="Audio\EEnE VOX ROLF - Born To Be Wild.wav" />
+    <None Remove="Audio\EEnE VOX ROLF - Do Not Fool Rolf.wav" />
+    <None Remove="Audio\EEnE VOX ROLF - EEHAAAAUGH.wav" />
+    <None Remove="Audio\EEnE VOX ROLF Many Doors Ed Boy.wav" />
+    <None Remove="Audio\EEnE Yodel Goofy.wav" />
+    <None Remove="Audio\im-going-to-kill-you-and-then-kill-you-again-By-Tuna.wav" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Audio\EEnE VOX EDDY - And You Kiss Your Mother.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Audio\EEnE VOX EDDY - ahem HELP ME.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Audio\EEnE VOX KEVIN AND ROLF banter.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Audio\EEnE VOX ROLF - Born To Be Wild.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Audio\EEnE VOX ROLF - Do Not Fool Rolf.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Audio\EEnE VOX ROLF - EEHAAAAUGH.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Audio\EEnE VOX ROLF Many Doors Ed Boy.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Audio\EEnE Yodel Goofy.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Audio\im-going-to-kill-you-and-then-kill-you-again-By-Tuna.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Windows.Extensions" Version="7.0.0" />
+  </ItemGroup>
+
+</Project>
